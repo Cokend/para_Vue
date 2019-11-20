@@ -1,24 +1,6 @@
 # zhihu-vue
 
-## Project setup
-```
-npm install
-```
+1.登录信息储存在mock-data.json中
+  使用命令：json-server mock-data.json 开启服务
+2.项目演示：
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
