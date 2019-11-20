@@ -7,5 +7,3 @@ json-server mock-data.json 开启服务
 
 ### 2.项目演示：
 ```
-npm run serve
-```
